@@ -11,7 +11,7 @@ This repository consists of two main components:
 ### Core Features
 - **Role-Based Access Control (RBAC)**: ADMIN and USER roles.
 - **Secure Authentication**: JWT-based local login and OAuth2 (SSO) support.
-- **Product Management**: Full CRUD operations for administrators.
+- **Product Management**: See the products.
 - **Responsive UI**: Modern design with React 19.
 
 ---
